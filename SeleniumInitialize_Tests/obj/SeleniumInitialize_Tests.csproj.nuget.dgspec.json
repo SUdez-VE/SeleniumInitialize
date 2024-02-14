@@ -1,0 +1,164 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vezen\\Source\\Repos\\SUdez-VE\\SeleniumInitialize\\SeleniumInitialize_Tests\\SeleniumInitialize_Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vezen\\Source\\Repos\\SUdez-VE\\SeleniumInitialize\\SeleniumInitialize_Builder\\SeleniumInitialize_Builder.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vezen\\Source\\Repos\\SUdez-VE\\SeleniumInitialize\\SeleniumInitialize_Builder\\SeleniumInitialize_Builder.csproj",
+        "projectName": "SeleniumInitialize_Builder",
+        "projectPath": "C:\\Users\\vezen\\Source\\Repos\\SUdez-VE\\SeleniumInitialize\\SeleniumInitialize_Builder\\SeleniumInitialize_Builder.csproj",
+        "packagesPath": "C:\\Users\\vezen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vezen\\Source\\Repos\\SUdez-VE\\SeleniumInitialize\\SeleniumInitialize_Builder\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "U:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vezen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.17.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.17.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vezen\\Source\\Repos\\SUdez-VE\\SeleniumInitialize\\SeleniumInitialize_Tests\\SeleniumInitialize_Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vezen\\Source\\Repos\\SUdez-VE\\SeleniumInitialize\\SeleniumInitialize_Tests\\SeleniumInitialize_Tests.csproj",
+        "projectName": "SeleniumInitialize_Tests",
+        "projectPath": "C:\\Users\\vezen\\Source\\Repos\\SUdez-VE\\SeleniumInitialize\\SeleniumInitialize_Tests\\SeleniumInitialize_Tests.csproj",
+        "packagesPath": "C:\\Users\\vezen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vezen\\Source\\Repos\\SUdez-VE\\SeleniumInitialize\\SeleniumInitialize_Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "U:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vezen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vezen\\Source\\Repos\\SUdez-VE\\SeleniumInitialize\\SeleniumInitialize_Builder\\SeleniumInitialize_Builder.csproj": {
+                "projectPath": "C:\\Users\\vezen\\Source\\Repos\\SUdez-VE\\SeleniumInitialize\\SeleniumInitialize_Builder\\SeleniumInitialize_Builder.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

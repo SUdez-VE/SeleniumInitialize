@@ -1,0 +1,15 @@
+C:\Users\vezen\Source\Repos\SUdez-VE\SeleniumInitialize\SeleniumInitialize_Builder\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\vezen\Source\Repos\SUdez-VE\SeleniumInitialize\SeleniumInitialize_Builder\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\vezen\Source\Repos\SUdez-VE\SeleniumInitialize\SeleniumInitialize_Builder\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\vezen\Source\Repos\SUdez-VE\SeleniumInitialize\SeleniumInitialize_Builder\bin\Debug\net6.0\SeleniumInitialize_Builder.deps.json
+C:\Users\vezen\Source\Repos\SUdez-VE\SeleniumInitialize\SeleniumInitialize_Builder\bin\Debug\net6.0\SeleniumInitialize_Builder.dll
+C:\Users\vezen\Source\Repos\SUdez-VE\SeleniumInitialize\SeleniumInitialize_Builder\bin\Debug\net6.0\SeleniumInitialize_Builder.pdb
+C:\Users\vezen\Source\Repos\SUdez-VE\SeleniumInitialize\SeleniumInitialize_Builder\obj\Debug\net6.0\SeleniumInitialize_Builder.csproj.AssemblyReference.cache
+C:\Users\vezen\Source\Repos\SUdez-VE\SeleniumInitialize\SeleniumInitialize_Builder\obj\Debug\net6.0\SeleniumInitialize_Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vezen\Source\Repos\SUdez-VE\SeleniumInitialize\SeleniumInitialize_Builder\obj\Debug\net6.0\SeleniumInitialize_Builder.AssemblyInfoInputs.cache
+C:\Users\vezen\Source\Repos\SUdez-VE\SeleniumInitialize\SeleniumInitialize_Builder\obj\Debug\net6.0\SeleniumInitialize_Builder.AssemblyInfo.cs
+C:\Users\vezen\Source\Repos\SUdez-VE\SeleniumInitialize\SeleniumInitialize_Builder\obj\Debug\net6.0\SeleniumInitialize_Builder.csproj.CoreCompileInputs.cache
+C:\Users\vezen\Source\Repos\SUdez-VE\SeleniumInitialize\SeleniumInitialize_Builder\obj\Debug\net6.0\SeleniumInitialize_Builder.dll
+C:\Users\vezen\Source\Repos\SUdez-VE\SeleniumInitialize\SeleniumInitialize_Builder\obj\Debug\net6.0\refint\SeleniumInitialize_Builder.dll
+C:\Users\vezen\Source\Repos\SUdez-VE\SeleniumInitialize\SeleniumInitialize_Builder\obj\Debug\net6.0\SeleniumInitialize_Builder.pdb
+C:\Users\vezen\Source\Repos\SUdez-VE\SeleniumInitialize\SeleniumInitialize_Builder\obj\Debug\net6.0\ref\SeleniumInitialize_Builder.dll
