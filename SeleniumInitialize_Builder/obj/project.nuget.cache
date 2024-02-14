@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qDCF67DUHI6TTJkoEIgRFr27NkQfsZMS7D3DF2BCF1zgQJFx1lmEGlxAc2BIh/sIVWavXxnLLtx9MjRIpv3iJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vezen\\Source\\Repos\\SUdez-VE\\SeleniumInitialize\\SeleniumInitialize_Builder\\SeleniumInitialize_Builder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vezen\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\vezen\\.nuget\\packages\\selenium.support\\4.17.0\\selenium.support.4.17.0.nupkg.sha512",
+    "C:\\Users\\vezen\\.nuget\\packages\\selenium.webdriver\\4.17.0\\selenium.webdriver.4.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
